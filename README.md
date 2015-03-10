@@ -1,4 +1,5 @@
-# codeigniter-slugify
+CodeIgniter Slugify Helper
+==========================
 
 A helper for CodeIgniter to create nice slugified urls and filenames.
 
